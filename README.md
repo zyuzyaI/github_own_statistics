@@ -1,4 +1,4 @@
-# github_own_statistics
+# [github_own_statistics](https://github.com/zyuzyaI/github_own_statistics)
 # How many contributions did you make?
 
 This code parse activity on [github](https://github.com/).
